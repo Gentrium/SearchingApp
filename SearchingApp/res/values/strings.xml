@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SearchingApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search">Найти</string>
+    <string name="Search_hint">Введите поисковое значение</string>
+    <string name="value_text">Значение поиска</string>
+    <string name="result_text">Результат поиска</string>
+    <string name="search_history">История поиска</string>
+    <string name="delete_all">Удалить все записи</string>
+    <string name="exit">Выход</string>
+    <string name="delete_dialog_title">Вы действительно хотите удалить все записи?</string>
+    <string name="yes_string">Да</string>
+    <string name="no_string">Нет</string>
+
+</resources>
